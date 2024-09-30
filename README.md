@@ -1,16 +1,12 @@
 # chinese_fonts_issues
 
-A new Flutter project.
+Related issue: https://github.com/flutter/flutter/issues/155927
 
-## Getting Started
+Chinese characters are displayed in garbled form.
 
-This project is a starting point for a Flutter application.
+<img width="1144" alt="2024-09-30 19 29 10" src="https://github.com/user-attachments/assets/24ba106c-2816-4d2b-8363-aa7680ee34f6">
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+After a while, it will show normal.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img width="1160" alt="2024-09-30 19 29 25" src="https://github.com/user-attachments/assets/59e395e3-9e4f-40da-8d17-3455cd4e4a1e">
