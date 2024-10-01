@@ -1,0 +1,10 @@
+{
+  "title": "Flutter Demo",
+  "@title": {
+    "description": "The conventional newborn programmer greeting"
+  },
+  "description": "You have pushed the button this many times:",
+  "@description": {
+    "description": "The conventional newborn programmer greeting"
+  }
+}
